@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ff24000-baaa-4eda-85fd-d2fef03fd9d7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1S0e2W8yZ48qCypkcrATxU1jZxm" />
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.UserConsumerApplication">
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eureka-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="eureka-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.EurekaApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="user-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.UserConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="user-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.UserServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceApplication2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="user-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.UserServiceApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8082" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.UserConsumerApplication" />
+        <item itemvalue="Spring Boot.UserServiceApplication" />
+        <item itemvalue="Spring Boot.EurekaApplication" />
+        <item itemvalue="Spring Boot.UserServiceApplication2" />
+        <item itemvalue="Spring Boot.EurekaApplication2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <option name="contentProportion" value="0.13791238" />
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ff24000-baaa-4eda-85fd-d2fef03fd9d7" name="Default Changelist" comment="" />
+      <created>1570704733285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570704733285</updated>
+      <workItem from="1570704736702" duration="583000" />
+      <workItem from="1570754804544" duration="9806000" />
+      <workItem from="1570781895499" duration="4439000" />
+      <workItem from="1570842254031" duration="8197000" />
+      <workItem from="1570867479548" duration="1800000" />
+      <workItem from="1570932536934" duration="279000" />
+      <workItem from="1571016739849" duration="1205000" />
+      <workItem from="1571046948142" duration="1195000" />
+      <workItem from="1571102475503" duration="1155000" />
+      <workItem from="1571297263252" duration="10048000" />
+      <workItem from="1572080462028" duration="3060000" />
+      <workItem from="1572141144553" duration="597000" />
+      <workItem from="1572162671079" duration="1196000" />
+      <workItem from="1572224936972" duration="596000" />
+      <workItem from="1572250375300" duration="598000" />
+      <workItem from="1572312894224" duration="593000" />
+      <workItem from="1572338884942" duration="594000" />
+      <workItem from="1572355891028" duration="591000" />
+      <workItem from="1572398912534" duration="596000" />
+      <workItem from="1572424101596" duration="589000" />
+      <workItem from="1572487021507" duration="586000" />
+      <workItem from="1572510398479" duration="593000" />
+      <workItem from="1572595407244" duration="591000" />
+      <workItem from="1572749311101" duration="597000" />
+      <workItem from="1572829448414" duration="593000" />
+      <workItem from="1572951967028" duration="595000" />
+      <workItem from="1573028129090" duration="598000" />
+      <workItem from="1573092492099" duration="1197000" />
+      <workItem from="1573115289909" duration="593000" />
+      <workItem from="1573350356896" duration="241000" />
+      <workItem from="1573372477392" duration="593000" />
+      <workItem from="1573526497482" duration="593000" />
+      <workItem from="1573724478565" duration="578000" />
+      <workItem from="1573732697603" duration="596000" />
+      <workItem from="1573785063131" duration="590000" />
+      <workItem from="1573808075807" duration="588000" />
+      <workItem from="1573869012016" duration="594000" />
+      <workItem from="1573895750099" duration="597000" />
+      <workItem from="1573954145542" duration="593000" />
+      <workItem from="1574038506380" duration="594000" />
+      <workItem from="1574128029439" duration="595000" />
+      <workItem from="1574589466269" duration="598000" />
+      <workItem from="1574912362391" duration="597000" />
+      <workItem from="1575362247013" duration="596000" />
+      <workItem from="1575370655338" duration="558000" />
+      <workItem from="1575371710379" duration="591000" />
+      <workItem from="1575425076148" duration="548000" />
+      <workItem from="1575444512562" duration="578000" />
+      <workItem from="1575511017617" duration="558000" />
+      <workItem from="1575532246236" duration="596000" />
+      <workItem from="1575534569809" duration="546000" />
+      <workItem from="1575599183040" duration="595000" />
+      <workItem from="1575620494986" duration="553000" />
+      <workItem from="1575684000371" duration="570000" />
+      <workItem from="1575706265540" duration="584000" />
+      <workItem from="1575772785031" duration="550000" />
+      <workItem from="1575795456013" duration="574000" />
+      <workItem from="1575857075125" duration="591000" />
+      <workItem from="1575881633424" duration="590000" />
+      <workItem from="1575944075305" duration="538000" />
+      <workItem from="1575969071475" duration="575000" />
+      <workItem from="1576029552697" duration="546000" />
+      <workItem from="1576053371932" duration="591000" />
+      <workItem from="1576117487197" duration="595000" />
+      <workItem from="1576143025075" duration="595000" />
+      <workItem from="1576201713963" duration="553000" />
+      <workItem from="1576232533915" duration="595000" />
+      <workItem from="1576289999199" duration="563000" />
+      <workItem from="1576463308912" duration="1942000" />
+      <workItem from="1576548728834" duration="596000" />
+      <workItem from="1576573149094" duration="548000" />
+      <workItem from="1576635631427" duration="591000" />
+      <workItem from="1576720782082" duration="596000" />
+      <workItem from="1576747540004" duration="580000" />
+      <workItem from="1576808308775" duration="589000" />
+      <workItem from="1577094408604" duration="592000" />
+      <workItem from="1577154091006" duration="43000" />
+      <workItem from="1577154304567" duration="593000" />
+      <workItem from="1577180031911" duration="598000" />
+      <workItem from="1577266888495" duration="594000" />
+      <workItem from="1577331442855" duration="590000" />
+      <workItem from="1577416695031" duration="594000" />
+      <workItem from="1577933291304" duration="328000" />
+      <workItem from="1578117429466" duration="310000" />
+      <workItem from="1578128868995" duration="595000" />
+      <workItem from="1578133852884" duration="578000" />
+      <workItem from="1578136031537" duration="576000" />
+      <workItem from="1578453654524" duration="6327000" />
+      <workItem from="1578468428391" duration="1485000" />
+      <workItem from="1578474709017" duration="700000" />
+      <workItem from="1578538044460" duration="596000" />
+      <workItem from="1578540185124" duration="9411000" />
+      <workItem from="1578620131085" duration="3311000" />
+      <workItem from="1578626537428" duration="8000" />
+      <workItem from="1578628634682" duration="143000" />
+      <workItem from="1578630605512" duration="1732000" />
+      <workItem from="1578634188348" duration="386000" />
+      <workItem from="1578644352601" duration="613000" />
+      <workItem from="1578650673166" duration="562000" />
+      <workItem from="1578651848234" duration="590000" />
+      <workItem from="1578653138976" duration="596000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

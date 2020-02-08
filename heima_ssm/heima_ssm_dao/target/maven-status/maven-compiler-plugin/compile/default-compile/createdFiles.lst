@@ -1,0 +1,8 @@
+com\itheima\ssm\dao\PermissionDao.class
+com\itheima\ssm\dao\ProductDao.class
+com\itheima\ssm\dao\SysLogDao.class
+com\itheima\ssm\dao\MemberDao.class
+com\itheima\ssm\dao\OrdersDao.class
+com\itheima\ssm\dao\TravellerDao.class
+com\itheima\ssm\dao\UserDao.class
+com\itheima\ssm\dao\RoleDao.class
